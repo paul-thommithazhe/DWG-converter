@@ -1,1 +1,1 @@
-# DWG-converter
+# PNG-converter
